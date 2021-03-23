@@ -1,0 +1,173 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "กิจกรรมที่เข้าร่วมทั้งหมด",
+        "weight": "bold",
+        "size": "xl",
+        "margin": "md"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ชื่อกิจกรรม",
+                "margin": "none",
+                "color": "#757575"
+              },
+              {
+                "type": "text",
+                "text": "วันเวลาที่จัด",
+                "color": "#757575"
+              },
+              {
+                "type": "text",
+                "text": "สถานที่",
+                "color": "#757575"
+              }
+            ],
+            "spacing": "none",
+            "offsetBottom": "none"
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Detail",
+                  "uri": "http://linecorp.com/"
+                }
+              }
+            ]
+          }
+        ],
+        "margin": "xl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ชื่อกิจกรรม",
+                "margin": "none",
+                "color": "#757575"
+              },
+              {
+                "type": "text",
+                "text": "วันเวลาที่จัด",
+                "color": "#757575"
+              },
+              {
+                "type": "text",
+                "text": "สถานที่",
+                "color": "#757575"
+              }
+            ],
+            "spacing": "none",
+            "offsetBottom": "none"
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Detail",
+                  "uri": "http://linecorp.com/"
+                }
+              }
+            ]
+          }
+        ],
+        "margin": "xl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ชื่อกิจกรรม",
+                "margin": "none",
+                "color": "#757575"
+              },
+              {
+                "type": "text",
+                "text": "วันเวลาที่จัด",
+                "color": "#757575"
+              },
+              {
+                "type": "text",
+                "text": "สถานที่",
+                "color": "#757575"
+              }
+            ],
+            "spacing": "none",
+            "offsetBottom": "none"
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "Detail",
+                  "uri": "http://linecorp.com/"
+                }
+              }
+            ]
+          }
+        ],
+        "margin": "xl"
+      }
+    ]
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}
