@@ -191,7 +191,6 @@
       {
         "type": "button",
         "style": "link",
-        "height": "sm",
         "action": {
           "type": "uri",
           "label": "Apply Now!",
