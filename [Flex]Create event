@@ -1,0 +1,70 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สร้างกิจกรรม",
+        "size": "xl",
+        "weight": "bold",
+        "color": "#ffffff",
+        "offsetStart": "xl",
+        "offsetTop": "md"
+      },
+      {
+        "type": "spacer",
+        "size": "lg"
+      }
+    ],
+    "backgroundColor": "#EF4B25",
+    "borderWidth": "bold",
+    "borderColor": "#EF4B25",
+    "cornerRadius": "none"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "uri": "http://linecorp.com/",
+              "label": "Creat new event"
+            },
+            "color": "#ffffff",
+            "margin": "none"
+          }
+        ],
+        "backgroundColor": "#EF4B25",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        },
+        "cornerRadius": "md"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Cancel",
+              "uri": "http://linecorp.com/"
+            },
+            "color": "#EF4B25"
+          }
+        ]
+      }
+    ]
+  }
+}
