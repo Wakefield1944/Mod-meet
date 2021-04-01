@@ -235,7 +235,7 @@
                         "contents": [
                           {
                             "type": "text",
-                            "text": "กิจกรรมนักศีกษา",
+                            "text": "กิจกรรมนักศึกษา",
                             "wrap": true,
                             "color": "#757575",
                             "size": "sm"
@@ -264,7 +264,7 @@
                         "contents": [
                           {
                             "type": "text",
-                            "text": "กิจกรรมจืตอาสา",
+                            "text": "กิจกรรมจิตอาสา",
                             "wrap": true,
                             "color": "#757575",
                             "size": "sm"
@@ -378,7 +378,7 @@
                         "contents": [
                           {
                             "type": "text",
-                            "text": "EMail",
+                            "text": "Email",
                             "wrap": true,
                             "color": "#757575",
                             "size": "sm"
