@@ -20,24 +20,53 @@
             "layout": "vertical",
             "contents": [
               {
-                "type": "text",
-                "text": "ชื่อกิจกรรม",
-                "margin": "none",
-                "color": "#757575"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ชื่อกิจกรรม",
+                    "margin": "none",
+                    "weight": "bold"
+                  }
+                ]
               },
               {
-                "type": "text",
-                "text": "วันเวลาที่จัด",
-                "color": "#757575"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "วันเวลาที่จัด",
+                    "color": "#757575"
+                  },
+                  {
+                    "type": "text",
+                    "text": "dd MMM. xx:xx",
+                    "offsetStart": "sm"
+                  }
+                ]
               },
               {
-                "type": "text",
-                "text": "สถานที่",
-                "color": "#757575"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "สถานที่",
+                    "color": "#757575"
+                  },
+                  {
+                    "type": "text",
+                    "text": "ตึกabc",
+                    "offsetStart": "sm"
+                  }
+                ]
               }
             ],
             "spacing": "none",
-            "offsetBottom": "none"
+            "offsetBottom": "none",
+            "flex": 2
           },
           {
             "type": "separator"
@@ -72,24 +101,53 @@
             "layout": "vertical",
             "contents": [
               {
-                "type": "text",
-                "text": "ชื่อกิจกรรม",
-                "margin": "none",
-                "color": "#757575"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ชื่อกิจกรรม",
+                    "margin": "none",
+                    "weight": "bold"
+                  }
+                ]
               },
               {
-                "type": "text",
-                "text": "วันเวลาที่จัด",
-                "color": "#757575"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "วันเวลาที่จัด",
+                    "color": "#757575"
+                  },
+                  {
+                    "type": "text",
+                    "text": "dd MMM. xx:xx",
+                    "offsetStart": "sm"
+                  }
+                ]
               },
               {
-                "type": "text",
-                "text": "สถานที่",
-                "color": "#757575"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "สถานที่",
+                    "color": "#757575"
+                  },
+                  {
+                    "type": "text",
+                    "text": "ตึกabc",
+                    "offsetStart": "sm"
+                  }
+                ]
               }
             ],
             "spacing": "none",
-            "offsetBottom": "none"
+            "offsetBottom": "none",
+            "flex": 2
           },
           {
             "type": "separator"
@@ -124,24 +182,53 @@
             "layout": "vertical",
             "contents": [
               {
-                "type": "text",
-                "text": "ชื่อกิจกรรม",
-                "margin": "none",
-                "color": "#757575"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ชื่อกิจกรรม",
+                    "margin": "none",
+                    "weight": "bold"
+                  }
+                ]
               },
               {
-                "type": "text",
-                "text": "วันเวลาที่จัด",
-                "color": "#757575"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "วันเวลาที่จัด",
+                    "color": "#757575"
+                  },
+                  {
+                    "type": "text",
+                    "text": "dd MMM. xx:xx",
+                    "offsetStart": "sm"
+                  }
+                ]
               },
               {
-                "type": "text",
-                "text": "สถานที่",
-                "color": "#757575"
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "สถานที่",
+                    "color": "#757575"
+                  },
+                  {
+                    "type": "text",
+                    "text": "ตึกabc",
+                    "offsetStart": "sm"
+                  }
+                ]
               }
             ],
             "spacing": "none",
-            "offsetBottom": "none"
+            "offsetBottom": "none",
+            "flex": 2
           },
           {
             "type": "separator"
