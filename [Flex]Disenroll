@@ -39,86 +39,8 @@
             "contents": [
               {
                 "type": "text",
-                "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
                 "wrap": true,
-                "color": "#757575",
-                "size": "sm"
-              }
-            ],
-            "borderWidth": "bold"
-          }
-        ]
-      },
-      {
-        "type": "text",
-        "text": "เวลาปิดรับสมัคร",
-        "color": "#757575",
-        "size": "sm",
-        "margin": "md"
-      },
-      {
-        "type": "text",
-        "text": "สถานที่",
-        "color": "#757575",
-        "size": "sm",
-        "margin": "sm"
-      },
-      {
-        "type": "text",
-        "text": "วัน - เวลาที่จัด",
-        "color": "#757575",
-        "size": "sm",
-        "margin": "sm"
-      },
-      {
-        "type": "text",
-        "text": "ที่ว่างคงเหลือ",
-        "color": "#757575",
-        "size": "sm",
-        "margin": "sm"
-      },
-      {
-        "type": "text",
-        "text": "คณะที่สามารถเข้าร่วมได้",
-        "color": "#757575",
-        "size": "sm",
-        "margin": "sm"
-      },
-      {
-        "type": "box",
-        "layout": "vertical",
-        "margin": "lg",
-        "spacing": "sm",
-        "contents": [
-          {
-            "type": "text",
-            "text": "ชั่วโมงที่ได้รับ",
-            "color": "#757575",
-            "size": "sm"
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "text",
-                "text": "ชั่วโมงกิจกรรมนักศีกษา",
-                "wrap": true,
-                "color": "#757575",
-                "size": "sm"
-              },
-              {
-                "type": "text",
-                "text": "ชั่วโมงกิจกรรมจืตอาสา",
-                "wrap": true,
-                "color": "#757575",
-                "size": "sm"
-              },
-              {
-                "type": "text",
-                "text": "ชั่วโมงกิจกรรมปัจฉิมนิเทศ",
-                "wrap": true,
-                "color": "#757575",
                 "size": "sm"
               }
             ],
@@ -128,15 +50,20 @@
       },
       {
         "type": "box",
-        "layout": "vertical",
-        "margin": "lg",
-        "spacing": "sm",
+        "layout": "horizontal",
         "contents": [
           {
-            "type": "text",
-            "text": "ข้อมูลติดต่อผู้จัดกิจกรรม",
-            "color": "#757575",
-            "size": "sm"
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เวลาปิดรับสมัคร",
+                "color": "#757575",
+                "size": "sm",
+                "margin": "md"
+              }
+            ]
           },
           {
             "type": "box",
@@ -144,37 +71,413 @@
             "contents": [
               {
                 "type": "text",
-                "text": "เบอร์โทร",
-                "wrap": true,
-                "color": "#757575",
-                "size": "sm"
-              },
-              {
-                "type": "text",
-                "text": "Email",
-                "wrap": true,
-                "color": "#757575",
-                "size": "sm"
-              },
-              {
-                "type": "text",
-                "text": "Facebook",
-                "wrap": true,
-                "color": "#757575",
-                "size": "sm"
-              },
-              {
-                "type": "text",
-                "text": "Line",
-                "wrap": true,
-                "color": "#757575",
-                "size": "sm"
+                "text": "xx Yyy, xx:xx",
+                "size": "sm",
+                "margin": "md"
               }
-            ],
-            "borderWidth": "bold"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "สถานที่",
+                "color": "#757575",
+                "size": "sm",
+                "margin": "sm"
+              }
+            ]
           },
           {
-            "type": "spacer"
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ตึกabc",
+                "size": "sm",
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "วัน - เวลาที่จัด",
+                "color": "#757575",
+                "size": "sm",
+                "margin": "sm"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "xx Yyy, xx:xx",
+                "size": "sm",
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ที่ว่างคงเหลือ",
+                "color": "#757575",
+                "size": "sm",
+                "margin": "sm"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "xx ที่",
+                "size": "sm",
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คณะที่สามารถเข้าร่วม",
+                "color": "#757575",
+                "size": "sm",
+                "margin": "sm",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คณะa, คณะb, คณะc, คณะd",
+                "size": "sm",
+                "margin": "sm",
+                "wrap": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ชั่วโมงที่ได้รับ",
+                "color": "#757575",
+                "size": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "กิจกรรมนักศึกษา",
+                            "wrap": true,
+                            "color": "#757575",
+                            "size": "sm",
+                            "margin": "none"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "x ชม.",
+                            "size": "sm"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "กิจกรรมจิตอาสา",
+                            "wrap": true,
+                            "color": "#757575",
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "x ชม.",
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "กิจกรรมปัจฉิมนิเทศ",
+                            "wrap": true,
+                            "color": "#757575",
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "x ชม.",
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "borderWidth": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ข้อมูลติดต่อผู้จัดกิจกรรม",
+                "color": "#757575",
+                "size": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "เบอร์โทร",
+                            "wrap": true,
+                            "color": "#757575",
+                            "size": "sm"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "0xx-xxx-xxxx",
+                            "size": "sm"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "Email",
+                            "wrap": true,
+                            "color": "#757575",
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "xxxxxx@xxxx.xxx",
+                            "wrap": true,
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "Facebook",
+                            "wrap": true,
+                            "color": "#757575",
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "xxxxxx",
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "Line",
+                            "wrap": true,
+                            "color": "#757575",
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "xxxxxx",
+                            "size": "sm",
+                            "margin": "sm"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "borderWidth": "bold"
+              }
+            ]
           }
         ]
       },
@@ -196,7 +499,7 @@
           "label": "Leave",
           "uri": "https://linecorp.com"
         },
-        "color": "#e80000"
+        "color": "#ee0000"
       }
     ],
     "flex": 0,
