@@ -238,7 +238,8 @@
                             "text": "กิจกรรมนักศึกษา",
                             "wrap": true,
                             "color": "#757575",
-                            "size": "sm"
+                            "size": "sm",
+                            "margin": "none"
                           }
                         ]
                       },
@@ -248,7 +249,8 @@
                         "contents": [
                           {
                             "type": "text",
-                            "text": "x ชม."
+                            "text": "x ชม.",
+                            "size": "sm"
                           }
                         ]
                       }
@@ -267,7 +269,8 @@
                             "text": "กิจกรรมจิตอาสา",
                             "wrap": true,
                             "color": "#757575",
-                            "size": "sm"
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       },
@@ -277,7 +280,9 @@
                         "contents": [
                           {
                             "type": "text",
-                            "text": "x ชม."
+                            "text": "x ชม.",
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       }
@@ -296,7 +301,8 @@
                             "text": "กิจกรรมปัจฉิมนิเทศ",
                             "wrap": true,
                             "color": "#757575",
-                            "size": "sm"
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       },
@@ -306,7 +312,9 @@
                         "contents": [
                           {
                             "type": "text",
-                            "text": "x ชม."
+                            "text": "x ชม.",
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       }
@@ -362,7 +370,8 @@
                         "contents": [
                           {
                             "type": "text",
-                            "text": "0xx-xxx-xxxx"
+                            "text": "0xx-xxx-xxxx",
+                            "size": "sm"
                           }
                         ]
                       }
@@ -392,7 +401,8 @@
                           {
                             "type": "text",
                             "text": "xxxxxx@xxxx.xxx",
-                            "wrap": true
+                            "wrap": true,
+                            "size": "sm"
                           }
                         ]
                       }
@@ -421,7 +431,8 @@
                         "contents": [
                           {
                             "type": "text",
-                            "text": "xxxxxx"
+                            "text": "xxxxxx",
+                            "size": "sm"
                           }
                         ]
                       }
@@ -450,7 +461,8 @@
                         "contents": [
                           {
                             "type": "text",
-                            "text": "xxxxxx"
+                            "text": "xxxxxx",
+                            "size": "sm"
                           }
                         ]
                       }
