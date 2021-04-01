@@ -390,7 +390,8 @@
                             "text": "Email",
                             "wrap": true,
                             "color": "#757575",
-                            "size": "sm"
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       },
@@ -402,7 +403,8 @@
                             "type": "text",
                             "text": "xxxxxx@xxxx.xxx",
                             "wrap": true,
-                            "size": "sm"
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       }
@@ -421,7 +423,8 @@
                             "text": "Facebook",
                             "wrap": true,
                             "color": "#757575",
-                            "size": "sm"
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       },
@@ -432,7 +435,8 @@
                           {
                             "type": "text",
                             "text": "xxxxxx",
-                            "size": "sm"
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       }
@@ -451,7 +455,8 @@
                             "text": "Line",
                             "wrap": true,
                             "color": "#757575",
-                            "size": "sm"
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       },
@@ -462,7 +467,8 @@
                           {
                             "type": "text",
                             "text": "xxxxxx",
-                            "size": "sm"
+                            "size": "sm",
+                            "margin": "sm"
                           }
                         ]
                       }
