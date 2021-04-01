@@ -47,39 +47,162 @@
             "type": "spacer"
           },
           {
-            "type": "text",
-            "text": "Years",
-            "size": "xs",
-            "color": "#757575",
-            "offsetStart": "sm"
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Years",
+                    "size": "xs",
+                    "color": "#757575",
+                    "offsetStart": "sm"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "3",
+                    "size": "xs",
+                    "offsetStart": "sm"
+                  }
+                ]
+              }
+            ]
           },
           {
-            "type": "text",
-            "text": "Faculty",
-            "size": "xs",
-            "color": "#757575",
-            "offsetStart": "sm"
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Faculty",
+                    "size": "xs",
+                    "color": "#757575",
+                    "offsetStart": "sm"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "xxxx",
+                    "size": "xs",
+                    "offsetStart": "sm",
+                    "wrap": true
+                  }
+                ]
+              }
+            ]
           },
           {
-            "type": "text",
-            "text": "Department",
-            "size": "xs",
-            "color": "#757575",
-            "offsetStart": "sm"
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Department",
+                    "size": "xs",
+                    "color": "#757575",
+                    "offsetStart": "sm"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "xxxx",
+                    "size": "xs",
+                    "offsetStart": "sm",
+                    "wrap": true
+                  }
+                ]
+              }
+            ]
           },
           {
-            "type": "text",
-            "text": "Tel",
-            "size": "xs",
-            "color": "#757575",
-            "offsetStart": "sm"
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Tel",
+                    "size": "xs",
+                    "color": "#757575",
+                    "offsetStart": "sm"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "xxx-xxxx-xxxx",
+                    "size": "xs",
+                    "offsetStart": "sm"
+                  }
+                ]
+              }
+            ]
           },
           {
-            "type": "text",
-            "text": "Email",
-            "size": "xs",
-            "color": "#757575",
-            "offsetStart": "sm"
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Email",
+                    "size": "xs",
+                    "color": "#757575",
+                    "offsetStart": "sm"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "xxxxxxx@xxxxx.xxx",
+                    "size": "xs",
+                    "offsetStart": "sm",
+                    "wrap": true
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
