@@ -23,17 +23,36 @@
       },
       {
         "type": "box",
-        "layout": "vertical",
-        "margin": "lg",
-        "spacing": "sm",
-        "contents": []
-      },
-      {
-        "type": "text",
-        "text": "ผู้เข้าร่วมทั้งหมด",
-        "color": "#757575",
-        "size": "sm",
-        "margin": "sm"
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ผู้เข้าร่วมทั้งหมด",
+                "color": "#757575",
+                "size": "sm",
+                "margin": "sm"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "xx คน",
+                "size": "sm",
+                "margin": "sm"
+              }
+            ]
+          }
+        ]
       },
       {
         "type": "separator",
