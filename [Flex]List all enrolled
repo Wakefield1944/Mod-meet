@@ -251,10 +251,5 @@
         "margin": "xl"
       }
     ]
-  },
-  "styles": {
-    "footer": {
-      "separator": true
-    }
   }
 }
