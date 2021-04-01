@@ -27,31 +27,73 @@
             "layout": "vertical",
             "contents": [
               {
-                "type": "text",
-                "text": "ที่ว่างคงเหลือ",
-                "wrap": true,
-                "color": "#757575",
-                "size": "xs",
-                "flex": 5
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ที่ว่างคงเหลือ",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "x ที่",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
               },
               {
-                "type": "text",
-                "text": "เวลาปิดรับสมัคร",
-                "wrap": true,
-                "color": "#757575",
-                "size": "xs",
-                "flex": 5
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เวลาปิดรับสมัคร",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "dd Mmm, xx:xx",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
               },
               {
-                "type": "text",
-                "text": "คณะที่สามารถเข้าร่วม",
-                "wrap": true,
-                "color": "#757575",
-                "size": "xs",
-                "flex": 5
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "คณะที่สามารถเข้าร่วม",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "คณะa, คณะb, คณะc, คณะd",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
               }
             ],
-            "borderWidth": "bold"
+            "offsetStart": "sm"
           }
         ],
         "spacing": "sm",
@@ -109,31 +151,73 @@
             "layout": "vertical",
             "contents": [
               {
-                "type": "text",
-                "text": "ที่ว่างคงเหลือ",
-                "wrap": true,
-                "color": "#757575",
-                "size": "xs",
-                "flex": 5
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ที่ว่างคงเหลือ",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "x ที่",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
               },
               {
-                "type": "text",
-                "text": "เวลาปิดรับสมัคร",
-                "wrap": true,
-                "color": "#757575",
-                "size": "xs",
-                "flex": 5
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เวลาปิดรับสมัคร",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "dd Mmm, xx:xx",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
               },
               {
-                "type": "text",
-                "text": "คณะที่สามารถเข้าร่วม",
-                "wrap": true,
-                "color": "#757575",
-                "size": "xs",
-                "flex": 5
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "คณะที่สามารถเข้าร่วม",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "คณะa, คณะb, คณะc, คณะd",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
               }
             ],
-            "borderWidth": "bold"
+            "offsetStart": "sm"
           }
         ],
         "spacing": "sm",
@@ -191,31 +275,73 @@
             "layout": "vertical",
             "contents": [
               {
-                "type": "text",
-                "text": "ที่ว่างคงเหลือ",
-                "wrap": true,
-                "color": "#757575",
-                "size": "xs",
-                "flex": 5
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ที่ว่างคงเหลือ",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "x ที่",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
               },
               {
-                "type": "text",
-                "text": "เวลาปิดรับสมัคร",
-                "wrap": true,
-                "color": "#757575",
-                "size": "xs",
-                "flex": 5
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เวลาปิดรับสมัคร",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "dd Mmm, xx:xx",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
               },
               {
-                "type": "text",
-                "text": "คณะที่สามารถเข้าร่วม",
-                "wrap": true,
-                "color": "#757575",
-                "size": "xs",
-                "flex": 5
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "คณะที่สามารถเข้าร่วม",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "คณะa, คณะb, คณะc, คณะd",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
               }
             ],
-            "borderWidth": "bold"
+            "offsetStart": "sm"
           }
         ],
         "spacing": "sm",
