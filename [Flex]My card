@@ -1,0 +1,133 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "My Card",
+        "size": "xl",
+        "weight": "bold",
+        "color": "#ffffff",
+        "offsetStart": "xl",
+        "offsetTop": "md"
+      },
+      {
+        "type": "spacer",
+        "size": "lg"
+      }
+    ],
+    "backgroundColor": "#EF4B25",
+    "borderWidth": "bold",
+    "borderColor": "#EF4B25",
+    "cornerRadius": "none"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "61130500xxx",
+        "size": "lg",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "Name Surname",
+        "size": "lg",
+        "color": "#757575"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "spacer"
+          },
+          {
+            "type": "text",
+            "text": "Years",
+            "size": "xs",
+            "color": "#757575",
+            "offsetStart": "sm"
+          },
+          {
+            "type": "text",
+            "text": "Faculty",
+            "size": "xs",
+            "color": "#757575",
+            "offsetStart": "sm"
+          },
+          {
+            "type": "text",
+            "text": "Department",
+            "size": "xs",
+            "color": "#757575",
+            "offsetStart": "sm"
+          },
+          {
+            "type": "text",
+            "text": "Tel",
+            "size": "xs",
+            "color": "#757575",
+            "offsetStart": "sm"
+          },
+          {
+            "type": "text",
+            "text": "Email",
+            "size": "xs",
+            "color": "#757575",
+            "offsetStart": "sm"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "separator"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "uri": "http://linecorp.com/",
+              "label": "Edit"
+            },
+            "margin": "none"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        },
+        "cornerRadius": "md"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Delete",
+              "uri": "http://linecorp.com/"
+            },
+            "color": "#EF4B25"
+          }
+        ]
+      }
+    ]
+  }
+}
