@@ -27,7 +27,8 @@
                     "type": "text",
                     "text": "ชื่อกิจกรรม",
                     "margin": "none",
-                    "weight": "bold"
+                    "weight": "bold",
+                    "wrap": true
                   }
                 ]
               },
@@ -43,7 +44,8 @@
                   {
                     "type": "text",
                     "text": "dd MMM. xx:xx",
-                    "offsetStart": "sm"
+                    "offsetStart": "sm",
+                    "wrap": true
                   }
                 ]
               },
@@ -59,7 +61,8 @@
                   {
                     "type": "text",
                     "text": "ตึกabc",
-                    "offsetStart": "sm"
+                    "offsetStart": "sm",
+                    "wrap": true
                   }
                 ]
               }
@@ -108,7 +111,8 @@
                     "type": "text",
                     "text": "ชื่อกิจกรรม",
                     "margin": "none",
-                    "weight": "bold"
+                    "weight": "bold",
+                    "wrap": true
                   }
                 ]
               },
@@ -124,7 +128,8 @@
                   {
                     "type": "text",
                     "text": "dd MMM. xx:xx",
-                    "offsetStart": "sm"
+                    "offsetStart": "sm",
+                    "wrap": true
                   }
                 ]
               },
@@ -140,7 +145,8 @@
                   {
                     "type": "text",
                     "text": "ตึกabc",
-                    "offsetStart": "sm"
+                    "offsetStart": "sm",
+                    "wrap": true
                   }
                 ]
               }
@@ -189,7 +195,8 @@
                     "type": "text",
                     "text": "ชื่อกิจกรรม",
                     "margin": "none",
-                    "weight": "bold"
+                    "weight": "bold",
+                    "wrap": true
                   }
                 ]
               },
@@ -205,7 +212,8 @@
                   {
                     "type": "text",
                     "text": "dd MMM. xx:xx",
-                    "offsetStart": "sm"
+                    "offsetStart": "sm",
+                    "wrap": true
                   }
                 ]
               },
@@ -221,7 +229,8 @@
                   {
                     "type": "text",
                     "text": "ตึกabc",
-                    "offsetStart": "sm"
+                    "offsetStart": "sm",
+                    "wrap": true
                   }
                 ]
               }
