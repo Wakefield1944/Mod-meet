@@ -19,7 +19,8 @@
         "type": "text",
         "text": "ชื่อกิจกรรม",
         "weight": "bold",
-        "size": "xl"
+        "size": "xl",
+        "wrap": true
       },
       {
         "type": "box",
@@ -73,7 +74,8 @@
                 "type": "text",
                 "text": "xx Yyy, xx:xx",
                 "size": "sm",
-                "margin": "md"
+                "margin": "md",
+                "wrap": true
               }
             ]
           }
@@ -104,7 +106,8 @@
                 "type": "text",
                 "text": "ตึกabc",
                 "size": "sm",
-                "margin": "sm"
+                "margin": "sm",
+                "wrap": true
               }
             ]
           }
@@ -135,7 +138,8 @@
                 "type": "text",
                 "text": "xx Yyy, xx:xx",
                 "size": "sm",
-                "margin": "sm"
+                "margin": "sm",
+                "wrap": true
               }
             ]
           }
@@ -436,7 +440,8 @@
                             "type": "text",
                             "text": "xxxxxx",
                             "size": "sm",
-                            "margin": "sm"
+                            "margin": "sm",
+                            "wrap": true
                           }
                         ]
                       }
@@ -468,7 +473,8 @@
                             "type": "text",
                             "text": "xxxxxx",
                             "size": "sm",
-                            "margin": "sm"
+                            "margin": "sm",
+                            "wrap": true
                           }
                         ]
                       }
