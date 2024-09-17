@@ -1,0 +1,377 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip10.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ชื่อกิจกรรม",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ที่ว่างคงเหลือ",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "x ที่",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เวลาปิดรับสมัคร",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "dd Mmm, xx:xx",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "คณะที่สามารถเข้าร่วม",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "คณะa, คณะb, คณะc, คณะd",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
+              }
+            ],
+            "offsetStart": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "separator"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Detail",
+              "uri": "http://linecorp.com/"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Apply Now",
+              "uri": "http://linecorp.com/"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip10.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ชื่อกิจกรรม",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ที่ว่างคงเหลือ",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "x ที่",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เวลาปิดรับสมัคร",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "dd Mmm, xx:xx",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "คณะที่สามารถเข้าร่วม",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "คณะa, คณะb, คณะc, คณะd",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
+              }
+            ],
+            "offsetStart": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "separator"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Detail",
+              "uri": "http://linecorp.com/"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Apply Now",
+              "uri": "http://linecorp.com/"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "micro",
+      "hero": {
+        "type": "image",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip10.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ชื่อกิจกรรม",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ที่ว่างคงเหลือ",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "x ที่",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เวลาปิดรับสมัคร",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "dd Mmm, xx:xx",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "คณะที่สามารถเข้าร่วม",
+                    "wrap": true,
+                    "color": "#757575",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "คณะa, คณะb, คณะc, คณะd",
+                    "wrap": true,
+                    "size": "xs",
+                    "flex": 5
+                  }
+                ],
+                "margin": "xs"
+              }
+            ],
+            "offsetStart": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "separator"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Detail",
+              "uri": "http://linecorp.com/"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Apply Now",
+              "uri": "http://linecorp.com/"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
